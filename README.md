@@ -29,6 +29,9 @@ If the Companion gets too long or asks many questions at once: `Stick to your ru
 | Version | Date | Changes |
 |---|---|---|
 | 1.0 | October 2026 | first published version, matching the first edition (Home Assistant 2026.10) |
+| 2026.11 | November 2026 | Notes on Home Assistant 2026.11: HACS is now built in as Marketplace (ch. 16), new entity names (ch. 5 to 7), friendly_name in templates (ch. 9, 10), plus automations, dashboards, ZHA, Matter, energy, troubleshooting |
+
+From version 2026.11 on, versions follow the Home Assistant releases.
 
 Corrections to the book since publication: none so far.
 
